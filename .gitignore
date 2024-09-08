@@ -1,2 +1,14 @@
 *~
 *.vdif
+*.vis
+*.lag
+*.spec
+*.input
+*.joblist
+*.im
+*.calc
+*.flag
+*bin000*
+*log*
+*.difx
+*.fits

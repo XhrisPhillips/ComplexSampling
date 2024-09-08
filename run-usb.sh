@@ -5,7 +5,7 @@ set -e
 export EXPER=test-usb
 
 vex2difx ${EXPER}.v2d
-difxcalc ${EXPER}.calc
+difxcalc -f ${EXPER}.calc
 
 \rm -rf ${EXPER}.difx
 mpirun -machinefile machines -np 4 mpifxcorr ${EXPER}.input

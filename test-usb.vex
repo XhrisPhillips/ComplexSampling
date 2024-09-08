@@ -19,8 +19,7 @@ def test;
 *    address:   ATNF
 *                
 *                
-*                
-*    phone:     000
+*                :     000
 *    during obs: 
 *    fax:        
 *

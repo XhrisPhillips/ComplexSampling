@@ -19,14 +19,14 @@ startSeries = 0
 
 SETUP default
 {
-  nChan=4096
+  nChan=512
   tInt=1
 }
 
 ANTENNA T1 {
  clockOffset = 0
  phaseCalInt = 0
- file = TEST1.vdif
+ file = TEST1-usb.vdif
 }
 
 ANTENNA T2 {

@@ -19,7 +19,7 @@ startSeries = 0
 
 SETUP default
 {
-  nChan=4096
+  nChan=512
   tInt=1
 }
 
